@@ -1,0 +1,23 @@
+{
+  "name": "casey-gulp",
+  "version": "1.0.0",
+  "description": "birthday project",
+  "main": "casey-is-awesome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bergstromcbb/casey-gulp.git"
+  },
+  "keywords": [
+    "fun",
+    "gulp"
+  ],
+  "author": "Christina Bergstrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bergstromcbb/casey-gulp/issues"
+  },
+  "homepage": "https://github.com/bergstromcbb/casey-gulp#readme"
+}
