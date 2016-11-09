@@ -2,7 +2,7 @@
   "name": "casey-gulp",
   "version": "1.0.0",
   "description": "birthday project",
-  "main": "casey-is-awesome.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
